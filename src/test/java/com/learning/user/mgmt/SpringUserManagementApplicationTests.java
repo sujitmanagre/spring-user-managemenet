@@ -1,4 +1,4 @@
-package com.learinig.user.mgmt;
+package com.learning.user.mgmt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

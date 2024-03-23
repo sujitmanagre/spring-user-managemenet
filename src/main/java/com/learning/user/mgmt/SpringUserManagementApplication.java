@@ -1,4 +1,4 @@
-package com.learinig.user.mgmt;
+package com.learning.user.mgmt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
